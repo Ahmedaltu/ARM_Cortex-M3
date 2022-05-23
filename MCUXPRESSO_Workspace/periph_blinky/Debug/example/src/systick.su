@@ -1,0 +1,5 @@
+/Users/ahmedphone/Documents/MCUXPRESSO_Workspace/lpc_chip_15xx/inc/core_cm3.h:1405:22:NVIC_SetPriority	16	static
+/Users/ahmedphone/Documents/MCUXPRESSO_Workspace/lpc_chip_15xx/inc/core_cm3.h:1532:26:SysTick_Config	16	static
+/Users/ahmedphone/Documents/MCUXPRESSO_Workspace/lpc_chip_15xx/inc/clock_15xx.h:500:20:Chip_Clock_SetSysTickClockDiv	16	static
+../example/src/systick.c:57:6:SysTick_Handler	8	static
+../example/src/systick.c:67:5:main	16	static
